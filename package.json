@@ -1,0 +1,11 @@
+{
+  "name": "closure-jsdoc-note-error",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "google-closure-compiler": "^20190929.0.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}

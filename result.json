@@ -1,0 +1,11 @@
+{
+  "exitCode": 1,
+  "stdOut": [
+    {
+      "path": "compiled.js",
+      "sourceMap": "{\n\"version\":3,\n\"file\":\"compiled.js\",\n\"lineCount\":1,\n\"mappings\":\"AAIAA,OAAAC,IAAA,CAAY,OAAZ;\",\n\"sources\":[\"Input_0\"],\n\"names\":[\"console\",\"log\"]\n}\n",
+      "src": "console.log(\"Hello\");"
+    }
+  ],
+  "stdErr": "Input_0:3 (JSC_PARSE_ERROR)\n\nParse error. illegal use of unknown JSDoc tag \"note\"; ignoring it\n\n"
+}
